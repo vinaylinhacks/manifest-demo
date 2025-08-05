@@ -1,0 +1,9 @@
+<manifest>
+    <remote name="origin" fetch="https://github.com/vinaylinhacks/" />
+    <default revision="main" remote="origin" sync-j="4" />
+    <project name="frontend-react-api" path="src/frontend" />
+    <project name="backend-flask-api" path="src/backend" />
+    <project name="shared-utils" path="libs/shared" />
+    <project name="devops-ansible" path="ops/ansible" />
+    <project name="project-docs" path="docs" />
+</manifest>
